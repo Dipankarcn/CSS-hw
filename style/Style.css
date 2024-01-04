@@ -1,0 +1,49 @@
+.nav{
+    background-color: aquamarine;
+    
+}
+.code{
+   margin: auto;
+    background-color: lightblue;
+    width: 1200px;
+    }
+    .row{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+       height: 100px;
+    }
+  
+    .row ul li{
+        display: inline-block;
+        width: 100px;
+        text-decoration: none;
+        color: black;
+        list-style-type: none;
+        padding: 0 10px;
+    }
+   .row ul li button{
+        background: red;
+        border-radius: 10px;
+       
+        color: white;
+        padding: 10px 10px;
+        margin: auto;
+        
+    }
+    .row ul li img{
+        width: fit-content;
+    }
+    .row ul li a{
+        text-decoration: none;
+        color: black;
+    }
+    .row ul li a:hover{
+    color: red;
+  }
+  
+   
+  
+
+    
+
